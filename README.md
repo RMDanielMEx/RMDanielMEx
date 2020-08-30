@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Daniel RUIZ MEJIA 👋 </h1>
-<h3 align="center">🚀 Étudiant en informatique  BAC+4 🚀</h3>
+<h3 align="center">🚀 I'm student at Mexico and France. BAC+4 🚀</h3>
 
 - 📫 How to reach me:    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:ruizmejiadaniel@gmail.com)
 -  💬School mail:    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:daniel.ruiz-mejia@etu.utc.fr)
